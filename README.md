@@ -1,7 +1,7 @@
 # Hi there, I'm Nazar Babii! 👋
 
 ## 👀 About Me
-I'm an **AI/ML, Full-Stack, and Web3.0 Developer** with a rich experience spanning over 10 years across key sectors such as finance, healthcare, and legal. My professional journey focuses on crafting scalable and cross-functional solutions that harness advanced AI, blockchain technology, and embedded systems. I am deeply passionate about enhancing the accuracy of LLMs, advancing edge AI technologies, and designing robust, secure decentralized systems.
+AI/ML Engineer and Full-Stack Developer with over 8 years of experience delivering scalable solutions in finance, healthcare, legal, and entertainment industries. Specialized in chatbot development, Retrieval-Augmented Generation (RAG) systems, and Parameter-Efficient Fine-Tuning (PEFT) for large language models (LLMs). Proven track record of enhancing LLM accuracy, developing AI-driven assistants for sports betting, research writing, and influencer content creation, and optimizing low-latency AI models for edge computing. Successfully boosted LLM accuracy by 20% using RAG pipelines on GCP and accelerated YOLOv8 model performance by 4x for real-time drone detection. Experienced in deploying AI agents, building robust MLOps pipelines across cloud platforms (GCP, AWS), and creating efficient CI/CD solutions for cloud-native applications. Strong hands-on expertise with GPT, Claude, LangChain, FAISS, and PEFT frameworks, with a passion for building interactive, high-impact user experiences in dynamic industries.
 
 ## 🛠️ Core Competencies
 - **Tech Stack**: Proficient in AI/ML, Full-Stack and Web3.0 Development.
@@ -43,13 +43,6 @@ I'm an **AI/ML, Full-Stack, and Web3.0 Developer** with a rich experience spanni
 *October 2018 – February 2020*
 - **Frontend Development**: Boosted user engagement by 40% with a responsive frontend for an e-commerce platform using React and Tailwind CSS.
 - **Key Skills**: React, Tailwind CSS, Frontend Development
-
-## 💡 Key Projects
-- **LLM Accuracy Enhancement with RAG on GCP**: Led a project to decrease hallucination rates by 20% in high-stakes sectors like healthcare and finance by implementing data pipelines for domain-specific retrieval on GCP.
-- **Real-Time Drone Object Detection with YOLOv8 and TensorFlow Lite**: Enhanced the processing speed of YOLOv8 by 4x for real-time object detection on resource-constrained devices.
-- **Interactive Chess AI Coaching Platform**: Integrated Lc0 with ChatGPT to improve gameplay understanding and engagement by 25% through real-time AI-powered coaching.
-- **Multi-Chatbot for Document Navigation with LangChain & AWS**: Reduced document search times by 35% with a multi-chatbot interface that utilizes NLP processing pipelines on AWS for efficient, real-time complex query handling.
-- **Decentralized Smart Contracts on Ethereum & Solana**: Developed efficient smart contracts for NFTs and digital assets, reducing transaction costs by 15%.
 
 ## 🎓 Education
 **Master of Computer Science**  
