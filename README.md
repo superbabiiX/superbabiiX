@@ -1,66 +1,133 @@
 # Hi there, I'm Nazar Babii! 👋
 
-## 👀 About Me
-AI/ML Engineer and Full-Stack Developer with over 8 years of experience delivering scalable solutions in finance, healthcare, legal, and entertainment industries. Specialized in chatbot development, Retrieval-Augmented Generation (RAG) systems, and Parameter-Efficient Fine-Tuning (PEFT) for large language models (LLMs). Proven track record of enhancing LLM accuracy, developing AI-driven assistants for sports betting, research writing, and influencer content creation, and optimizing low-latency AI models for edge computing. Successfully boosted LLM accuracy by 20% using RAG pipelines on GCP and accelerated YOLOv8 model performance by 4x for real-time drone detection. Experienced in deploying AI agents, building robust MLOps pipelines across cloud platforms (GCP, AWS), and creating efficient CI/CD solutions for cloud-native applications. Strong hands-on expertise with GPT, Claude, LangChain, FAISS, and PEFT frameworks, with a passion for building interactive, high-impact user experiences in dynamic industries.
+## 👀 About Me  
+AI/ML Engineer and Full-Stack Developer with over 8 years of experience designing, deploying, and optimizing cutting-edge AI systems across finance, healthcare, legal, and entertainment sectors. I specialize in building intelligent, context-aware assistants using **LLM-based architectures**, **Retrieval-Augmented Generation (RAG)**, **Parameter-Efficient Fine-Tuning (PEFT)**, and **Agent-Oriented AI frameworks**.
 
-## 🛠️ Core Competencies
-- **Tech Stack**: Proficient in AI/ML, Full-Stack and Web3.0 Development.
-- **Technologies**: Skilled with Docker, Kubernetes, AWS, Azure, GCP, TensorFlow, Solidity, and Web3.js.
-- **Current Focus**: Concentrating on Machine Learning Engineering.
+My recent work involves implementing **Deep Research Agents** for automating legal and academic research, designing **Agent2Agent communication protocols** for multi-agent collaboration, and integrating **Model Context Protocols** for scalable, memory-aware systems. I incorporate **Human-in-the-Loop (HITL)** workflows to iteratively refine outputs and improve reliability across sensitive use cases.
+
+Proven track record includes boosting LLM accuracy by 20% using custom RAG pipelines on GCP, increasing YOLOv8 inference performance 4x for edge devices, and developing robust CI/CD and MLOps pipelines for cloud-native AI applications. I'm highly skilled with GPT, Claude, LangChain, FAISS, and modern deployment stacks, passionate about building high-impact AI systems that adapt, scale, and deliver real-world value.
+
+---
+
+## 🛠️ Core Competencies  
+- **AI Engineering**: LLM Optimization, RAG, HITL, PEFT, Model Context Protocol, Agent-Oriented Systems  
+- **DevOps & MLOps**: GCP, AWS, Docker, Kubernetes, CI/CD, A/B testing pipelines  
+- **Frontend & Backend**: Full-stack apps (React, Vue, Node.js, Django), API (REST/GraphQL), microservices  
+- **Blockchain**: Solidity, Ethereum, Web3.js, DeFi  
+- **Current Focus**: Multi-agent systems, Deep Research Agent orchestration, and scalable AI assistants
+  
+---
 
 ## 💼 Professional Experience
 
-### Machine Learning Engineer
-**Strative, San Francisco (Remote)**  
-*October 2024 – Present*
-- **LLM Optimization**: Successfully enhanced LLM accuracy by 20% for applications in healthcare, finance, and legal sectors by utilizing Retrieval-Augmented Generation (RAG) alongside domain-specific data pipelines on Google Cloud Platform (GCP).
-- **ML Deployment Pipelines**: Engineered robust ML pipelines that include A/B testing and automated monitoring to ensure sustained model performance and scalability on GCP.
-- **Key Skills**: LLM, RAG, GCP, Data Retrieval, Scalability
+### 🤖 AI Engineer — Veray, California (Remote)  
+*Jan 2025 – Present*
+- Developed production-grade **LLM-powered agents** using GPT and Claude to support research workflows, knowledge summarization, and content ideation.  
+- Led design and deployment of a **Deep Research Agent** with integrated RAG + HITL feedback loop to ensure verifiable, high-accuracy outputs across legal and healthcare datasets.  
+- Implemented custom **Model Context Protocol** for persistent memory and long-range reasoning across chat sessions.  
+- Stack: GPT-4, Claude, LangChain, FastAPI, FAISS, GCP  
 
-### Machine Learning Engineer
-**Alta Ares, France (Remote)**  
-*May 2024 – Present*
-- **Edge AI Optimization**: Increased the processing speed of YOLOv8 by 4x for drone applications by converting PyTorch models to TensorFlow Lite, optimizing performance for low-latency hardware.
-- **AI-Powered Chess Coaching System**: Enhanced user engagement by 25% by integrating the Lc0 neural network with ChatGPT for real-time AI-driven coaching.
-- **Key Skills**: YOLOv8, TensorFlow Lite, PyTorch, ChatGPT, Neural Networks
+**Key Skills**: Research Automation, Deep Agent Design, LangChain, RAG, HITL, Prompt Engineering
 
-### Embedded Engineer & Full-Stack Developer
-**Conrads Consult & Engineering, Germany (Remote)**  
-*February 2022 – October 2024*
-- **FPGA Customization**: Improved USRP board performance for GSM-R signal processing by 20% using ModelSim for verification.
-- **Backend Scalability**: Developed and maintained a highly reliable backend for Liox.io, achieving 99.9% uptime and reducing load times by 30% through Kubernetes orchestration.
-- **Key Skills**: FPGA, ModelSim, Backend Development, Kubernetes
+---
 
-### Full-Stack Developer
-**Vertor Force, Germany (Remote)**  
-*February 2020 – January 2022*
-- **Blockchain**: Created the frontend for a blockchain-based financial platform, significantly enhancing user engagement and streamlining access to crypto-financial services.
-- **Cross-Platform Development**: Developed a trading app integrating MT4/MT5, enhancing trading efficiency by 15% through React Native and Electron.js.
-- **Key Skills**: Solidity, Ethereum, Solana, Cross-Platform Development
+### 🎨 AI Developer — ShrineTech LLC, New York (Remote)  
+*Aug 2024 – Mar 2025*  
+- Created generative AI tools for influencer marketing (text-to-image, video, audio), enabling faster production workflows for creator teams.  
+- Applied **PEFT** and domain-specific fine-tuning to adapt foundational models for entertainment-specific tone, emotion, and structure.  
+- Contributed to a modular **Agent2Agent framework**, enabling collaboration between generation and filtering agents to refine multimedia content outputs.  
 
-### Frontend Developer
-**WBE, Lviv, Ukraine (On-site)**  
-*October 2018 – February 2020*
-- **Frontend Development**: Boosted user engagement by 40% with a responsive frontend for an e-commerce platform using React and Tailwind CSS.
-- **Key Skills**: React, Tailwind CSS, Frontend Development
+**Key Skills**: Generative AI, PEFT, Media AI Agents, Domain Adaptation, Multimodal Prompt Tuning
 
-## 🎓 Education
-**Master of Computer Science**  
-Lviv Polytechnic National University
+---
 
-## 📜 Certifications
-- Recent studies include Blockchain, Cloud Computing, Computer Vision, Machine Learning, Prompt Engineering, Digital Image Processing, and Financial Risk Analytics.
+### 🧠 Machine Learning Engineer — Strative, San Francisco (Remote)  
+*Oct 2024 – Jan 2025*  
+- Improved LLM accuracy by 20% across financial, healthcare, and legal sectors via RAG pipelines and domain adaptation on GCP.  
+- Developed a scalable RAG framework with **LangChain + FAISS**, integrated into a **Model Context Protocol** for consistent information retrieval across long documents.  
+- Integrated evaluation frameworks for **A/B testing**, HITL correction pipelines, and prompt refinement cycles.  
 
-## 🧑‍🔬 Skills and Expertise
-- **AI/ML**: Expertise in LLM Optimization (RAG, Transformer Models), Object Detection (YOLOv5-11), NLP (LangChain, ChatGPT), AutoML, and Feature Engineering.
-- **Frontend**: Proficient in JavaScript (React, Next.js, Vue.js) and UI/UX design with Tailwind CSS.
-- **Backend & Full-Stack**: Node.js, Django, Symfony, and API integration (REST, GraphQL) with a focus on microservices and serverless architecture.
-- **Blockchain & Web 3.0**: Skilled in Solidity, Ethereum, Solana, Truffle, and Web3.js.
-- **Cloud & DevOps**: Well-versed in AWS, Azure, GCP, Docker, Kubernetes, Terraform, and CI/CD practices (GitLab CI, GitHub Actions).
-- **Embedded Systems & IoT**: STM32, PIC, FPGA, Verilog, VHDL, and real-time data processing.
+**Key Skills**: LLM, RAG, GCP, LangChain, FAISS, Model Context, A/B Testing, HITL
 
-## ⚡ Fun Fact
-When I'm not deep in tech, I love exploring Ukraine's breathtaking landscapes or experimenting with new recipes in the kitchen!
+---
 
-## 💬 Let's Collaborate
-I'm keen to connect on AI, Blockchain, or Full-Stack development projects. Let's innovate together!
+### 🧮 AI Engineer — SportsGrid, New York (Remote)  
+*Nov 2024 – Mar 2025*  
+- Designed an interactive AI assistant for sports betting, combining **predictive analytics**, **Agent2Agent reasoning**, and **real-time data ingestion**.  
+- Leveraged modular agents for statistics parsing, odds comparison, and betting strategy explanation, improving engagement and user retention.  
+- Enabled voice-activated agent control and contextual memory for repeat users.  
+
+**Key Skills**: Agent-Based AI, Predictive Modeling, Sports Analytics, Voice UX, Real-Time LLM Systems
+
+---
+
+### 🛰️ Machine Learning Engineer — Alta Ares, France (Remote)  
+*May 2024 – Feb 2025*  
+- Boosted YOLOv8 model inference speed by 4x on edge drones by converting to TensorFlow Lite and optimizing model deployment across resource-limited hardware.  
+- Built an **AI chess coaching agent** integrating Lc0 and ChatGPT, enabling real-time strategic advice, boosting engagement by 25%.  
+- Developed containerized deployment pipelines with rapid iteration and monitoring.  
+
+**Key Skills**: Object Detection, Low-Latency Inference, Neural Networks, TensorFlow Lite, Edge AI
+
+---
+
+### 🔧 Full-Stack & Embedded Engineer — Conrads Consult & Engineering, Germany (Remote)  
+*Feb 2022 – Oct 2024*  
+- Customized FPGA firmware for USRP boards, improving GSM-R signal processing performance by 20%.  
+- Built scalable video platform architecture using Vue.js (frontend), Symfony (backend), and Kubernetes for 99.9% uptime.  
+- Designed data pipelines and device firmware for STM32 and PIC-based systems.  
+
+**Key Skills**: FPGA, Full-Stack Development, Microservices, Kubernetes, Embedded Systems
+
+---
+
+### 💹 Full-Stack Developer — Vertor Force, Germany (Remote)  
+*Feb 2020 – Jan 2022*  
+- Built a blockchain-based financial platform frontend using React, Web3.js, and Ether.js.  
+- Developed cross-platform trading tools with MT4/MT5 integration, increasing trade speed by 15%.  
+
+**Key Skills**: Web3, React Native, Blockchain UX, Trading APIs
+
+---
+
+### 🛍️ Frontend Developer — WBE, Lviv, Ukraine (On-site)  
+*Oct 2018 – Feb 2020*  
+- Enhanced user engagement by 40% by redesigning e-commerce UI with React and Tailwind CSS.  
+- Contributed to responsive mobile-first redesigns across product pages.  
+
+**Key Skills**: React, Tailwind, Responsive Design, E-commerce
+
+---
+
+## 🔍 Projects & Systems
+- **Deep Research Agent**: Automated research assistant orchestrated with LangChain, FAISS, and dynamic RAG layers for legal and academic document parsing  
+- **Agent2Agent Communication**: Modular multi-agent framework enabling collaborative LLM systems for data enrichment, summarization, and reasoning  
+- **HITL Pipelines**: Integrated feedback-based improvement loop to refine LLM outputs using user corrections and prompt-tuning  
+- **Model Context Protocol**: Designed contextual memory and long-term retrieval strategies using vector DBs and dynamic slot-filling
+
+---
+
+## 📜 Certifications  
+(Selected from over 30 credentials)  
+- **Prompt Engineering for ChatGPT** – Great Learning  
+- **Cloud Computing Architecture** – Great Learning  
+- **LLM with ChatGPT** – Great Learning  
+- **Neural Networks & Deep Learning** – Great Learning  
+- **Blockchain Certification** – Simplilearn  
+
+---
+
+## 🎓 Education  
+**Master of Computer Engineering** – Lviv Polytechnic National University  
+
+---
+
+## ⚡ Fun Fact  
+When I'm not building multi-agent AI systems, I’m either exploring the Carpathians or reinventing traditional Ukrainian recipes with a tech twist.
+
+---
+
+## 💬 Let's Collaborate  
+I’m currently open to projects involving advanced LLM workflows, deep agent orchestration, or full-stack AI products. Let’s build the future of intelligent automation together!
+
+---
