@@ -61,43 +61,6 @@ Proven track record includes boosting LLM accuracy by 20% using custom RAG pipel
 
 ---
 
-### 🛰️ Machine Learning Engineer — Alta Ares, France (Remote)  
-*May 2024 – Feb 2025*  
-- Boosted YOLOv8 model inference speed by 4x on edge drones by converting to TensorFlow Lite and optimizing model deployment across resource-limited hardware.  
-- Built an **AI chess coaching agent** integrating Lc0 and ChatGPT, enabling real-time strategic advice, boosting engagement by 25%.  
-- Developed containerized deployment pipelines with rapid iteration and monitoring.  
-
-**Key Skills**: Object Detection, Low-Latency Inference, Neural Networks, TensorFlow Lite, Edge AI
-
----
-
-### 🔧 Full-Stack & Embedded Engineer — Conrads Consult & Engineering, Germany (Remote)  
-*Feb 2022 – Oct 2024*  
-- Customized FPGA firmware for USRP boards, improving GSM-R signal processing performance by 20%.  
-- Built scalable video platform architecture using Vue.js (frontend), Symfony (backend), and Kubernetes for 99.9% uptime.  
-- Designed data pipelines and device firmware for STM32 and PIC-based systems.  
-
-**Key Skills**: FPGA, Full-Stack Development, Microservices, Kubernetes, Embedded Systems
-
----
-
-### 💹 Full-Stack Developer — Vertor Force, Germany (Remote)  
-*Feb 2020 – Jan 2022*  
-- Built a blockchain-based financial platform frontend using React, Web3.js, and Ether.js.  
-- Developed cross-platform trading tools with MT4/MT5 integration, increasing trade speed by 15%.  
-
-**Key Skills**: Web3, React Native, Blockchain UX, Trading APIs
-
----
-
-### 🛍️ Frontend Developer — WBE, Lviv, Ukraine (On-site)  
-*Oct 2018 – Feb 2020*  
-- Enhanced user engagement by 40% by redesigning e-commerce UI with React and Tailwind CSS.  
-- Contributed to responsive mobile-first redesigns across product pages.  
-
-**Key Skills**: React, Tailwind, Responsive Design, E-commerce
-
----
 
 ## 🔍 Projects & Systems
 - **Deep Research Agent**: Automated research assistant orchestrated with LangChain, FAISS, and dynamic RAG layers for legal and academic document parsing  
